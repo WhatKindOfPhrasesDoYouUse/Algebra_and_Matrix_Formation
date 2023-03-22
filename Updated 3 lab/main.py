@@ -83,6 +83,3 @@ def chart1():
     plt.show()
 
 #chart1()
-
-
-

@@ -44,8 +44,6 @@ matr1, matr2 = randomFilling(100)
 a = formation1(10)[0]
 print(a)
 
-
-
 # временные затраты для formation1
 def t1(size):
     t1 = time.time()
